@@ -1,1 +1,4 @@
-{"rewrites":[{"source":"/","destination":"https://loving-collection-290661.framer.app/"},{"source":"/:path*","destination":"https://loving-collection-290661.framer.app/:path*"}]}
+{
+  "cleanUrls": true,
+  "trailingSlash": false
+}
